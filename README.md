@@ -29,3 +29,9 @@ Once the dependencies are installed, you're ready to use the project.
 Once you start app.py, you can access the gradio interface from the provided link in the terminal. 
 
 ![bau_rag](./assets/bau_rag.png)
+
+
+## TODO:
+1.  Context enrichment
+2. Sentence Window Retrieval
+3. Query transformations
